@@ -1,0 +1,1 @@
+const a="bla:last-diagnosis";function r(){try{const t=localStorage.getItem(a);return t?JSON.parse(t):null}catch{return null}}function n(t){try{localStorage.setItem(a,JSON.stringify(t))}catch{}}export{r,n as w};

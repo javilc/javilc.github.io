@@ -1,0 +1,1 @@
+const t={local:"41",posted:"42",remote:"43",usllc:"43",director:"47",entrepreneur:"54",qualified:"55",athlete:"",freelance:"",other:""};function i(e,r={}){return e?e==="director"?r.directorEntity==="patrimonial"?"48":"47":t[e]:""}export{i as c};

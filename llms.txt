@@ -1,0 +1,119 @@
+# Beckham Law Agency
+
+> Find out in five minutes whether Spain’s Beckham regime applies to you, what your deadline is and what it is worth. Then get a fixed quote from an independent, registered professional before you pay anything. Built by people who hold the regime themselves.
+
+Platform specialised in Spain’s impatriate tax regime (art. 93 LIRPF, the “Beckham Law”): flat 24% on employment income up to €600,000 for up to 6 tax years. Free rules-based diagnosis, then, if you want help, a fixed quote from an independent registered professional. Engineer-built; the founders hold the regime themselves. Languages: English, Spanish, Catalan. Serves all of Spain. Regulatory figures verified as of August 2026. Content on this site is general information, not tax or legal advice.
+
+## Key pages (English)
+
+- [Home — free diagnosis, savings calculator, pricing, FAQ](https://beckhamlaw.agency/)
+- [US citizens — IRS, FEIE vs Foreign Tax Credit, FBAR/FATCA, own LLC or S-corp](https://beckhamlaw.agency/us-citizens/)
+- [Beckham Law Spain 2026: the complete guide — requirements, 24% flat tax, deadline, how to apply](https://beckhamlaw.agency/beckham-law-spain/)
+- [Savings by region — 15 autonomous communities × 7 salary levels, AEAT 2025 scales](https://beckhamlaw.agency/beckham-law-savings-by-region/)
+- [Modelo 149 deadline calculator — exact due date from your Social Security registration](https://beckhamlaw.agency/beckham-law-deadline-calculator/)
+- [Free diagnosis — verdict, deadline, savings, points to check and document checklist in 5 minutes](https://beckhamlaw.agency/check/)
+- [Blog — deadlines, rejections, self-employed routes, equity, regime exit](https://beckhamlaw.agency/blog/)
+- [Get matched with a registered Beckham-regime professional — fixed quote, no matching fee](https://beckhamlaw.agency/hire/)
+- [Guided filing — file Modelo 149 yourself with every step reviewed, €149 VAT incl., simple cases only; Annual filing (Modelo 151) €119/year](https://beckhamlaw.agency/guided-filing/)
+
+## By situation (English): documents by route, country of origin, destination city, compared with other regimes
+
+- [Documents for the Beckham Law, route by route](https://beckhamlaw.agency/beckham-law-documents/)
+  - [Spanish employment contract](https://beckhamlaw.agency/beckham-law-documents/spanish-employment-contract/): Hired by a company in Spain, or transferred to its Spanish entity.
+  - [Remote work for a foreign employer](https://beckhamlaw.agency/beckham-law-documents/remote-work-foreign-employer/): Your employer stays abroad, you work from Spain. The telework route.
+  - [Posted worker with A1 certificate](https://beckhamlaw.agency/beckham-law-documents/posted-worker-a1-certificate/): Sent by your company, keeping your contract and your home social security.
+  - [Own US LLC or S-corp](https://beckhamlaw.agency/beckham-law-documents/own-us-llc-s-corp/): Owner and employee of the US company that pays your salary.
+  - [Company director](https://beckhamlaw.agency/beckham-law-documents/company-director/): Moving to Spain to become a director of a company.
+- [The Beckham Law by country of origin](https://beckhamlaw.agency/beckham-law-for/)
+  - [United Kingdom](https://beckhamlaw.agency/beckham-law-for/uk-citizens/): Permit first, then HMRC’s exit rules, then what happens to the ISA, the pension and the flat in London.
+  - [Germany](https://beckhamlaw.agency/beckham-law-for/german-citizens/): No permit needed, but the A1 sets your deadline, and two German rules follow you: extended limited liability and exit tax.
+  - [Netherlands](https://beckhamlaw.agency/beckham-law-for/dutch-citizens/): The M-form, the protective assessment, the house in box 3 and the AOW gap. And how the regime differs from the ruling you may have had.
+  - [Sweden, Denmark, Norway, Finland](https://beckhamlaw.agency/beckham-law-for/nordic-citizens/): Each Nordic country has a rule that keeps you resident after you leave. Cut the ties properly, then watch the A1 date.
+  - [Latin America](https://beckhamlaw.agency/beckham-law-for/latin-americans/): A Spanish passport helps with immigration and does nothing for the regime. What counts is where you were tax resident, and how you leave home.
+- [The Beckham Law by city](https://beckhamlaw.agency/beckham-law-in/)
+  - [Madrid](https://beckhamlaw.agency/beckham-law-in/madrid/): The lowest regional scale in Spain, so the smallest saving, and still the most common destination.
+  - [Barcelona](https://beckhamlaw.agency/beckham-law-in/barcelona/): One of the steepest regional scales, so one of the largest savings. Tech, remote workers and founders.
+  - [Valencia](https://beckhamlaw.agency/beckham-law-in/valencia/): The highest top regional rate in Spain, and the fastest-growing destination for remote workers.
+  - [Málaga](https://beckhamlaw.agency/beckham-law-in/malaga/): Tech hub and Costa del Sol. A moderate regional scale and full wealth-tax relief.
+  - [Seville](https://beckhamlaw.agency/beckham-law-in/seville/): Same Andalusian rules as Málaga, with a salary profile where the regime often needs a second look.
+  - [Palma de Mallorca](https://beckhamlaw.agency/beckham-law-in/palma-mallorca/): A steep scale at high incomes, a €3 million wealth-tax threshold, and a lot of remote and owner-managed cases.
+  - [Alicante](https://beckhamlaw.agency/beckham-law-in/alicante/): Valencian rules, the highest top regional rate in Spain, and the largest British community on the coast.
+- [The Beckham Law compared with other countries’ regimes](https://beckhamlaw.agency/beckham-law-vs/)
+  - [Portugal IFICI](https://beckhamlaw.agency/beckham-law-vs/portugal-nhr-ifici/): Portugal’s successor to the NHR is cheaper and longer, but only for listed activities. Spain takes any employee.
+  - [Italy impatriati](https://beckhamlaw.agency/beckham-law-vs/italy-impatriati/): On salary alone Italy’s 50% exemption often beats a flat 24%. Spain wins on foreign income, duration and having no qualification test.
+  - [Greece 50% exemption](https://beckhamlaw.agency/beckham-law-vs/greece-50-percent-exemption/): Greece exempts half of your local salary for seven years. Spain covers foreign employers and leaves foreign income alone.
+  - [Netherlands 30% ruling](https://beckhamlaw.agency/beckham-law-vs/netherlands-30-percent-ruling/): A tax-free slice inside the ordinary Dutch system, or a flat 24% outside it. The ruling is shrinking; the Spanish regime is not.
+
+## Posts (English)
+
+- [Beckham Law vs Mbappé Law (Madrid): which one is for you](https://beckhamlaw.agency/blog/beckham-law-vs-mbappe-law-madrid/): Moving to Madrid from abroad? Spain’s impatriate regime (art. 93 LIRPF) and Madrid’s 20% deduction for new residents’ investments (Law 4/2024) work in completely different ways and cannot be combined. What each one is, who each one suits, and a side-by-side table.
+- [The Beckham Law 6-month deadline: how it works and what to do if you're late](https://beckhamlaw.agency/blog/beckham-law-6-month-deadline/): Form 149 must be filed within 6 months of your Spanish Social Security registration. Here's how the clock actually starts for each route, a month-by-month plan, what the deadline is worth in euros, the mistakes that kill applications, and your options if you missed it.
+- [Beckham Law application rejected: the 6 most common reasons (and how to avoid them)](https://beckhamlaw.agency/blog/beckham-law-application-rejected/): Prior Spanish tax residence, late filing, a premature autónomo registration, inconsistent paperwork… why the Spanish tax office rejects impatriate-regime applications, what a rejection actually looks like, how to answer an information request, and how to bulletproof yours.
+- [Beckham Law with a US LLC or S-corp: how to get paid without losing the regime](https://beckhamlaw.agency/blog/beckham-law-us-llc-s-corp/): A single-member LLC generates self-employment income, exactly what Spain's impatriate regime excludes. A real S-corp salary can fit the remote-work route, but scrutiny rises when the employer is your own company. Here's how the pieces fit.
+- [FEIE vs. Foreign Tax Credit under the Beckham Law: the numbers US citizens should run before moving](https://beckhamlaw.agency/blog/beckham-law-feie-foreign-tax-credit/): US citizens in Spain's Beckham regime keep filing with the IRS. Whether the FEIE (Form 2555) or the Foreign Tax Credit (Form 1116) fits better depends on your income, here's how the flat 24% changes the math.
+- [Digital nomad visa with your own US company: does the Beckham Law still apply?](https://beckhamlaw.agency/blog/beckham-law-nomad-visa-own-us-company/): Spain's nomad visa has an employee track and a freelancer track, and that choice, not the visa itself, largely decides whether the 24% impatriate regime is available. Where owner-employees of US LLCs and S-corps really stand.
+- [Digital nomad visa + Beckham Law: the remote worker’s guide to 24% tax in Spain](https://beckhamlaw.agency/blog/beckham-law-digital-nomad-visa/): Since the Startup Law, remote employees of foreign companies can pay a 24% flat tax in Spain. Visa requirements, how it interacts with Form 149, Social Security, and the classic remote-worker mistakes.
+- [Self-employed and the Beckham Law: why freelancers don't qualify (and the 3 exceptions that do)](https://beckhamlaw.agency/blog/beckham-law-self-employed-freelancers/): The impatriate regime excludes ordinary self-employment, but Spain's Startup Law opened three routes: certified entrepreneurs, highly-qualified professionals and company directors. What each one requires, how to prove it, the order of steps that keeps the regime alive, and what to do if you already registered as autónomo.
+- [RSUs, stock options and bonuses under the Beckham Law: what nobody tells you](https://beckhamlaw.agency/blog/beckham-law-rsu-stock-options-bonus/): The 24% flat rate covers equity compensation, but vesting that started abroad, payout timing and the €600,000 threshold create expensive traps. A practical guide for tech employees relocating to Spain.
+- [When the Beckham Law ends: what happens after the 6 years](https://beckhamlaw.agency/blog/what-happens-when-beckham-law-ends/): The regime covers your arrival year plus five more. Then comes ordinary Spanish tax: worldwide income, Form 720 and wealth tax. How to prepare the transition (or the exit) 1–2 years in advance.
+
+## Páginas clave (español)
+
+- [Inicio](https://beckhamlaw.agency/es/)
+- [Ciudadanos de EE. UU.](https://beckhamlaw.agency/es/ciudadanos-eeuu/)
+- [Ley Beckham España 2026: la guía completa](https://beckhamlaw.agency/es/ley-beckham-espana/)
+- [Ahorro por comunidad autónoma](https://beckhamlaw.agency/es/ahorro-ley-beckham-por-comunidad/)
+- [Calculadora del plazo del Modelo 149](https://beckhamlaw.agency/es/calculadora-plazo-modelo-149/)
+- [Diagnóstico gratuito — veredicto, plazo, ahorro, puntos a revisar y checklist en 5 minutos](https://beckhamlaw.agency/es/diagnostico/)
+- [Presentación guiada — presentas tú el Modelo 149 con cada paso revisado, 149 € IVA incl., solo casos sencillos; declaración anual (Modelo 151) 119 €/año](https://beckhamlaw.agency/es/presentacion-guiada/)
+- [Blog](https://beckhamlaw.agency/es/blog/)
+
+## Por situación (español): documentos por vía, país de origen, ciudad de destino, comparado con otros regímenes
+
+- [Documentos para la Ley Beckham, vía por vía](https://beckhamlaw.agency/es/documentos-ley-beckham/)
+  - [Contrato de trabajo español](https://beckhamlaw.agency/es/documentos-ley-beckham/contrato-de-trabajo-espanol/): Contratado por una empresa en España, o trasladado a su entidad española.
+  - [Teletrabajo para empleador extranjero](https://beckhamlaw.agency/es/documentos-ley-beckham/teletrabajo-empleador-extranjero/): Tu empleador sigue fuera, tú trabajas desde España. La vía del teletrabajo.
+  - [Desplazado con certificado A1](https://beckhamlaw.agency/es/documentos-ley-beckham/desplazado-certificado-a1/): Enviado por tu empresa, manteniendo tu contrato y tu Seguridad Social de origen.
+  - [LLC o S-corp propia](https://beckhamlaw.agency/es/documentos-ley-beckham/llc-s-corp-propia/): Dueño y empleado de la sociedad estadounidense que te paga el salario.
+  - [Administrador de sociedad](https://beckhamlaw.agency/es/documentos-ley-beckham/administrador-de-sociedad/): Te trasladas a España para ser administrador de una sociedad.
+- [La Ley Beckham según tu país de origen](https://beckhamlaw.agency/es/ley-beckham-para/)
+  - [Reino Unido](https://beckhamlaw.agency/es/ley-beckham-para/ciudadanos-britanicos/): Primero el permiso, después las reglas de salida de HMRC, después qué pasa con la ISA, la pensión y el piso en Londres.
+  - [Alemania](https://beckhamlaw.agency/es/ley-beckham-para/ciudadanos-alemanes/): Sin permiso, pero el A1 fija tu plazo, y dos reglas alemanas te siguen: la obligación limitada ampliada y el exit tax.
+  - [Países Bajos](https://beckhamlaw.agency/es/ley-beckham-para/ciudadanos-neerlandeses/): El formulario M, la liquidación conservativa, la casa en la box 3 y el hueco de la AOW. Y en qué se diferencia el régimen del ruling que quizá tuviste.
+  - [Suecia, Dinamarca, Noruega, Finlandia](https://beckhamlaw.agency/es/ley-beckham-para/ciudadanos-nordicos/): Cada país nórdico tiene una regla que te mantiene residente después de irte. Corta los vínculos bien, y después vigila la fecha del A1.
+  - [Latinoamérica](https://beckhamlaw.agency/es/ley-beckham-para/latinoamericanos/): El pasaporte español ayuda con extranjería y no hace nada por el régimen. Lo que cuenta es dónde fuiste residente fiscal, y cómo sales de tu país.
+- [La Ley Beckham por ciudad](https://beckhamlaw.agency/es/ley-beckham-en/)
+  - [Madrid](https://beckhamlaw.agency/es/ley-beckham-en/madrid/): La escala autonómica más baja de España, así que el menor ahorro, y aun así el destino más habitual.
+  - [Barcelona](https://beckhamlaw.agency/es/ley-beckham-en/barcelona/): Una de las escalas autonómicas más empinadas, así que uno de los mayores ahorros. Tecnología, teletrabajo y fundadores.
+  - [Valencia](https://beckhamlaw.agency/es/ley-beckham-en/valencia/): El tipo autonómico máximo más alto de España, y el destino que más crece entre teletrabajadores.
+  - [Málaga](https://beckhamlaw.agency/es/ley-beckham-en/malaga/): Hub tecnológico y Costa del Sol. Escala autonómica moderada y bonificación total de Patrimonio.
+  - [Sevilla](https://beckhamlaw.agency/es/ley-beckham-en/sevilla/): Las mismas reglas andaluzas que Málaga, con un perfil salarial en el que el régimen suele necesitar una segunda mirada.
+  - [Palma de Mallorca](https://beckhamlaw.agency/es/ley-beckham-en/palma-de-mallorca/): Una escala empinada con rentas altas, un umbral de Patrimonio de 3 millones y muchos casos en remoto o con sociedad propia.
+  - [Alicante](https://beckhamlaw.agency/es/ley-beckham-en/alicante/): Reglas valencianas, el tipo autonómico máximo más alto de España y la mayor comunidad británica de la costa.
+- [La Ley Beckham comparada con los regímenes de otros países](https://beckhamlaw.agency/es/ley-beckham-vs/)
+  - [Portugal IFICI](https://beckhamlaw.agency/es/ley-beckham-vs/portugal-ifici-nhr/): El sucesor portugués del NHR es más barato y más largo, pero solo para actividades listadas. España admite a cualquier empleado.
+  - [Italia impatriati](https://beckhamlaw.agency/es/ley-beckham-vs/italia-impatriati/): Solo en salario, la exención italiana del 50 % suele ganar a un 24 % fijo. España gana en rentas extranjeras, duración y en no tener prueba de cualificación.
+  - [Grecia exención 50 %](https://beckhamlaw.agency/es/ley-beckham-vs/grecia-exencion-50/): Grecia exime la mitad de tu salario local durante siete años. España cubre empleadores extranjeros y deja en paz las rentas extranjeras.
+  - [Países Bajos 30% ruling](https://beckhamlaw.agency/es/ley-beckham-vs/paises-bajos-30-ruling/): Una parte exenta dentro del sistema neerlandés ordinario, o un 24 % fijo fuera de él. El ruling se encoge; el régimen español no.
+
+## Posts (español)
+
+- [Ley Beckham vs Ley Mbappé (Madrid): cuál es para ti](https://beckhamlaw.agency/es/blog/ley-beckham-vs-ley-mbappe-madrid/): ¿Te mudas a Madrid desde el extranjero? El régimen de impatriados (art. 93 LIRPF) y la deducción madrileña del 20 % por inversiones de nuevos residentes (Ley 4/2024) funcionan de forma totalmente distinta y no se pueden combinar. Qué es cada una, a quién encaja cada una y una tabla comparativa.
+- [El plazo de 6 meses de la Ley Beckham: cómo funciona y qué hacer si llegas tarde](https://beckhamlaw.agency/es/blog/plazo-6-meses-ley-beckham/): El Modelo 149 debe presentarse en los 6 meses siguientes a tu alta en la Seguridad Social. Cómo se cuenta el plazo en cada vía, un plan mes a mes, cuánto vale el plazo en euros, los errores más comunes y qué opciones quedan si se te ha pasado.
+- [Ley Beckham denegada: los 6 motivos de rechazo más comunes (y cómo evitarlos)](https://beckhamlaw.agency/es/blog/ley-beckham-denegada-motivos/): Residencia fiscal previa, solicitud fuera de plazo, alta como autónomo, documentación incompleta… Por qué Hacienda deniega solicitudes del régimen de impatriados, cómo es una denegación en la práctica, cómo responder a un requerimiento y cómo blindar la tuya.
+- [Ley Beckham con una LLC o S-corp de EE. UU.: cómo cobrar sin perder el régimen](https://beckhamlaw.agency/es/blog/ley-beckham-llc-s-corp-eeuu/): Una LLC unipersonal genera rendimientos de actividad económica, justo lo que el régimen de impatriados excluye. Una nómina real de S-corp puede encajar en la vía del teletrabajo, pero el escrutinio sube cuando el empleador es tu propia empresa. Así encajan las piezas.
+- [FEIE o Foreign Tax Credit con la Ley Beckham: los números que un estadounidense debe echar antes de mudarse](https://beckhamlaw.agency/es/blog/feie-foreign-tax-credit-ley-beckham/): Un ciudadano de EEUU acogido a la Ley Beckham sigue declarando ante el IRS. Que le convenga el FEIE (Form 2555) o el Foreign Tax Credit (Form 1116) depende de sus rentas: así cambia el cálculo el tipo fijo del 24%.
+- [Visado de nómada digital cobrando de tu propia empresa de EE. UU.: ¿sigue siendo aplicable la Ley Beckham?](https://beckhamlaw.agency/es/blog/ley-beckham-visado-nomada-empresa-propia/): El visado de nómada digital tiene una vía de empleado y otra de autónomo, y esa elección, no el visado en sí, decide en gran medida si el régimen de impatriados del 24% está disponible. Dónde quedan los socios-empleados de LLC y S-corp.
+- [Visado de nómada digital + Ley Beckham: la guía para teletrabajadores](https://beckhamlaw.agency/es/blog/ley-beckham-nomadas-digitales/): Desde la Ley de Startups, los empleados remotos de empresas extranjeras pueden tributar al 24% en España. Requisitos del visado, cómo encaja con el Modelo 149, Seguridad Social y los errores típicos del teletrabajador.
+- [Autónomos y Ley Beckham: por qué los freelance no entran (y las 3 excepciones que sí)](https://beckhamlaw.agency/es/blog/ley-beckham-autonomos/): El régimen de impatriados excluye la actividad por cuenta propia ordinaria, pero la Ley de Startups abrió tres vías: emprendedores certificados, profesionales altamente cualificados y administradores. Qué exige cada una, cómo acreditarla, el orden de pasos que mantiene vivo el régimen y qué hacer si ya te diste de alta como autónomo.
+- [RSU, stock options y bonus bajo la Ley Beckham: lo que nadie te cuenta](https://beckhamlaw.agency/es/blog/ley-beckham-rsu-stock-options-bonus/): El 24% fijo se aplica a la retribución en equity, pero el momento de devengo, el vesting iniciado antes del traslado y el límite de 600.000 € crean trampas caras. Guía práctica para empleados tech.
+- [El fin del régimen Beckham: qué pasa cuando se acaban los 6 años](https://beckhamlaw.agency/es/blog/fin-regimen-beckham-que-pasa-despues/): El régimen dura el año del traslado y los 5 siguientes. Después llega el IRPF general con tributación mundial, Modelo 720 y patrimonio. Cómo preparar la transición (o la salida) con 1–2 años de antelación.
+
+## Facts an assistant can rely on
+
+- Flat rate: 24% on employment income up to €600,000; 47% on the excess.
+- Duration: the tax year of the move plus the five following years (up to 6 tax years).
+- Application: Modelo 149 within 6 months of registration with Spanish Social Security. No extensions.
+- Hard exclusions: Spanish tax residence in any of the previous 5 tax years; ordinary self-employment; late filing.
+- Annual return under the regime: Modelo 151 (not Modelo 100).
+- Legal notice: https://beckhamlaw.agency/legal/ · Privacy: https://beckhamlaw.agency/privacy/ · Contact: hola@beckhamlaw.agency
