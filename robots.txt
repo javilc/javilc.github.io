@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /parrilla-reels/
+Disallow: /panel/
+
+Sitemap: https://beckhamlaw.agency/sitemap-index.xml

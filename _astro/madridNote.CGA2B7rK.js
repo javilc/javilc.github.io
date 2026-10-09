@@ -1,0 +1,1 @@
+import{o as e}from"./tax.CGxPhwf1.js";function t(t,n,r){if(!n||n<=0)return t.text;let i=e(n);return i.kind===`no-saving`?t.noSaving:i.kind===`never`?t.text:t.figure.replace(`{amount}`,r(Math.round(i.investment/1e3)*1e3))}export{t};

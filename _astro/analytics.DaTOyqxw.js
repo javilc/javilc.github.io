@@ -1,0 +1,1 @@
+function e(e,t){try{window.umami?.track(e,t)}catch{}}var t=!1;function n(){t||(t=!0,document.addEventListener(`click`,t=>{let n=t.target?.closest(`[data-track]`);if(!n||!n.dataset.track)return;let r={};for(let[e,t]of Object.entries(n.dataset))e===`track`||!e.startsWith(`track`)||t===void 0||(r[e.slice(5).toLowerCase()]=t);e(n.dataset.track,r)}))}export{e as n,n as t};
